@@ -1,0 +1,21 @@
+{
+  "institutions": [
+    {
+      "id": 1,
+      "name": "Sunrise Institute of Technology"
+    },
+    {
+      "id": 2,
+      "name": "Lakeview College of Engineering"
+    },
+    {
+      "id": 3,
+      "name": "Godavari Technical Campus"
+    },
+    {
+      "id": 4,
+      "name": "Eastern Hills Polytechnic"
+    }
+  ],
+  "notes": "The front-end prototype contains the complete sample FDR dataset and workflow."
+}
